@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+#connexion{
+   color: white;
+   background-color: #007bff;
+ }
+
+ p{
+   font-size: 22px;
+}
